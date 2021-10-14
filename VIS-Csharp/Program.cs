@@ -7,7 +7,7 @@ namespace VIS_Csharp
 {
     class Program
     {
-        public static string connectionString = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\veron\source\repos\VIS-Csharp\VIS-Csharp\Database2.mdf;Integrated Security=True";
+        public static string connectionString = @"";
 
 
         void TableData()
