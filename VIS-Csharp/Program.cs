@@ -7,7 +7,7 @@ namespace VIS_Csharp
 {
     class Program
     {
-        public static string connectionString = @"";
+        public static string connectionString = "";
 
 
         void TableData()
